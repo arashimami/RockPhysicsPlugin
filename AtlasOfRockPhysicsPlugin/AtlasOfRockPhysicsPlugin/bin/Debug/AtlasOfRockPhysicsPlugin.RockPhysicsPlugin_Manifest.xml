@@ -1,0 +1,6 @@
+<Deployment>
+  <Files>
+    <File Name="AtlasOfRockPhysicsPlugin.dll" />
+    <File Name="AtlasOfRockPhysicsPlugin.pdb" />
+  </Files>
+</Deployment>
