@@ -1,5 +1,0 @@
-D:\Porjects\ESTD\ESTD\tasks\3rd task - Ferdowsi Atlas of Rock Physics plugin\Ocean project\AtlasOfRockPhysicsPlugin\AtlasOfRockPhysicsPlugin\bin\Debug\AtlasOfRockPhysicsPlugin.dll
-D:\Porjects\ESTD\ESTD\tasks\3rd task - Ferdowsi Atlas of Rock Physics plugin\Ocean project\AtlasOfRockPhysicsPlugin\AtlasOfRockPhysicsPlugin\bin\Debug\AtlasOfRockPhysicsPlugin.pdb
-D:\Porjects\ESTD\ESTD\tasks\3rd task - Ferdowsi Atlas of Rock Physics plugin\Ocean project\AtlasOfRockPhysicsPlugin\AtlasOfRockPhysicsPlugin\obj\Debug\AtlasOfRockPhysicsPlugin.csprojResolveAssemblyReference.cache
-D:\Porjects\ESTD\ESTD\tasks\3rd task - Ferdowsi Atlas of Rock Physics plugin\Ocean project\AtlasOfRockPhysicsPlugin\AtlasOfRockPhysicsPlugin\obj\Debug\AtlasOfRockPhysicsPlugin.dll
-D:\Porjects\ESTD\ESTD\tasks\3rd task - Ferdowsi Atlas of Rock Physics plugin\Ocean project\AtlasOfRockPhysicsPlugin\AtlasOfRockPhysicsPlugin\obj\Debug\AtlasOfRockPhysicsPlugin.pdb

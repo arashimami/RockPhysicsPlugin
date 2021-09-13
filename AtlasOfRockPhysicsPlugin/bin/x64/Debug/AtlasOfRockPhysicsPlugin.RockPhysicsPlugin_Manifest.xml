@@ -1,7 +1,0 @@
-<Deployment>
-  <Files>
-    <File Name="AtlasOfRockPhysicsPlugin.dll" />
-    <File Name="AtlasOfRockPhysicsPlugin.pdb" />
-    <File Name="AtlasOfRockPhysicsPlugin.RockPhysicsPlugin_Manifest.xml" />
-  </Files>
-</Deployment>
